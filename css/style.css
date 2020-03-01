@@ -1,0 +1,130 @@
+.menu-list li{
+	
+	display:inline-block;
+	list-style-type: none;
+	
+}
+
+.btn-header{
+	
+	background-color:#66914f;
+	margin-left:10px;
+	border-radius: 5px;
+	border-color:#213815;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+
+.inp-header{
+	
+	padding-left:10px;
+	padding-right:10px;
+	margin-left: 10px;
+	border-radius: 5px;
+	
+}
+
+.div-slide{
+	color: navy;
+	background-color: #80ad68;
+	margin: 0 auto;
+	width: 600px;
+	padding-top: 2px;
+	text-align: center;
+	font-size: 22px;
+		}
+		
+.a-slide {
+	color:navy;
+	cursor: pointer;
+	user-select: none;
+		}
+		
+.a-slide:hover {
+	color: red;
+		}
+		
+.btn-signup{
+	
+	background-color:white;
+	color:#80ad68;
+	border-radius:5px;
+	border-color:#80ad68;
+	padding-top: 4px;
+	padding-bottom: 8px;
+	padding-left: 70px;
+	padding-right: 70px;
+	
+}
+
+.btn-signup:hover {
+	
+	background-color: #80ad68;
+	color:white;
+	
+}
+
+.abonament{
+	
+	color:#80ad68;
+	text-align:center;
+	border-radius: 10px;
+	border: 2px solid #80ad68;
+	
+}
+
+.bbutons{
+	
+	padding:5px;
+	background-color:#efefef;
+	color:#80ad68;
+	font-size:18px;
+	border-radius: 5px;
+	
+}
+
+.rez-table tr td{
+	
+	padding: 15px;
+	
+}
+
+.text-block {
+  position: absolute;
+  bottom: 96px;
+  right: 305px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text-block2 {
+  position: absolute;
+  bottom: 55px;
+  right: 130px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.cod-block {
+  position: absolute;
+  bottom: 130px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#CARDP,
+#MACROP,
+#EXERP,
+#FOODP,
+#SUPPP {
+	display: none;
+}
+
